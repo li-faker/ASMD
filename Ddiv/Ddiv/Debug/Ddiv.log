@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/7/27 13:26:47。
+     1>项目“C:\Users\13427\Desktop\Ddiv\Ddiv\Ddiv.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\13427\Desktop\Cdll\Cdll /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Ddiv.cpp
+         Ddiv.cpp
+     1>c:\users\13427\desktop\ddiv\ddiv\bdll.h(4): warning C4005: “MYLIBDLL”: 宏重定义
+                 c:\users\13427\desktop\alib\alib\alib.h(6) : 参见“MYLIBDLL”的前一个定义
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\13427\Desktop\Bdll\Debug Alib.lib Bdll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.lib" /MACHINE:X86 Debug\Ddiv.obj
+            正在创建库 C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.lib 和对象 C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.exp
+         Ddiv.vcxproj -> C:\Users\13427\Desktop\Ddiv\Debug\Ddiv.exe
+     1>已完成生成项目“C:\Users\13427\Desktop\Ddiv\Ddiv\Ddiv.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.46
